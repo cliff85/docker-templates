@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <Container version="2">
   <Name>Rclone-mount</Name>
-  <Repository>cfras/docker-rclone-mount</Repository>
+  <Repository>cfras/docker-rclone-mount:dev</Repository>
   <Registry>https://hub.docker.com/r/cfras/docker-rclone-mount/</Registry>
   <Network>bridge</Network>
   <Privileged>false</Privileged>
