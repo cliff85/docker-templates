@@ -1,8 +1,8 @@
 <?xml version="1.0"?>
 <Container version="2">
   <Name>Rclone-mount</Name>
-  <Repository>tynor88/rclone-mount:dev</Repository>
-  <Registry>https://hub.docker.com/r/tynor88/rclone-mount/</Registry>
+  <Repository>cliff85/rclone-mount:dev</Repository>
+  <Registry>https://hub.docker.com/r/cfras/docker-rclone-mount/</Registry>
   <Network>bridge</Network>
   <Privileged>false</Privileged>
   <Support>https://forums.lime-technology.com/topic/56921-support-rclone-mount-with-exposable-fuse-support-for-plex-beta/</Support>
